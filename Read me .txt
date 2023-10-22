@@ -1,0 +1,7 @@
+Crear repositorio
+Colocarle nombre
+Agregar Read me 
+Guardar
+
+COPIAR LINK REPOSITORIO: code>HTTPS
+https://github.com/Ayelenip/Armonia-Sprint2.git
